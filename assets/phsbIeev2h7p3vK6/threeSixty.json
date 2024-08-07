@@ -1,0 +1,27 @@
+{
+  "version": "3.90.32893.0",
+  "course_id": "68lWMht0Fg3",
+  "title": "Final Certification",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Scène sans titre"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5jUDpYUldbi",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 583
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
